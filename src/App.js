@@ -7,7 +7,7 @@ function App() {
   const incButton=()=>{
     setCount(++count)
   }
-  const decButtonButton=()=>{
+  const decButton=()=>{
     setCount(--count)
   }
 
